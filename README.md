@@ -55,7 +55,7 @@ Took over Podcast [https://www.crossingthestreams.dev/](https://www.crossingthes
 
 ✍️ 39 articles and blog posts
 
-🗞 62 #newsletter weeklies written
+🗞 64 #newsletter weeklies written
 
 📚 85 code repositories built
 
