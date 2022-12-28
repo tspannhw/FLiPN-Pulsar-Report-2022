@@ -1,6 +1,3 @@
-# FLiPN-Pulsar-Report-2022
-
-
 Welcome to a Year 2022 wrap-up by Timothy Spann.
 
 
@@ -64,6 +61,8 @@ Took over Podcast [https://www.crossingthestreams.dev/](https://www.crossingthes
 🖥️ 20 demos built, run and shown
 
 📺 50 videos from various streaming resources
+
+🏢 700 Meetup Members 
  
  
 ** What about your 2022? **
