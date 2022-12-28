@@ -1,5 +1,6 @@
 Welcome to a Year 2022 wrap-up by Timothy Spann.
 
+![2022](https://raw.githubusercontent.com/tspannhw/FLiPN-Pulsar-Report-2022/main/images/wrapup2022.png)
 
 ![1](https://media.licdn.com/dms/image/D4E12AQGVq4QE05Qx5Q/article-inline_image-shrink_1500_2232/0/1671455016718?e=1677110400&v=beta&t=cdm7ONiEcFYQaBwZHHkblCzm1EHC57MggIa8Dmv3ups)
 
