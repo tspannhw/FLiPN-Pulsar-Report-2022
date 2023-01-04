@@ -14,7 +14,7 @@ Welcome to a Year 2022 wrap-up by Timothy Spann.
 
 I am responsible for spreading the good word of Apache Pulsar.   I accomplish this by doing talks, meetups, articles, podcasts, videos, demos, repositories, newsletters, and other content.
 
-NYC Area Apache Pulsar meetup has grown to over 648.   
+NYC Area Apache Pulsar meetup has grown to over 700.   
 [https://www.meetup.com/new-york-city-apache-pulsar-meetup/](https://www.meetup.com/new-york-city-apache-pulsar-meetup/])
 
 I spoke at over 35 conferences both virtual and in-person
